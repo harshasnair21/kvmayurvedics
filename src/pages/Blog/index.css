@@ -1,0 +1,48 @@
+.blog-page {
+  padding: 40px 20px;
+}
+
+.blog-page__header {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.blog-page__header h1 {
+  font-size: 2rem;
+  margin: 0 0 8px;
+}
+
+.blog-page__sub {
+  color: #666;
+  margin: 0;
+}
+
+/* Hero to match other pages */
+.blog-hero {
+  background: linear-gradient(135deg, #1a3e2e 0%, #0d2f23 100%);
+  padding: 6rem 2rem 4rem;
+  margin-top: 50px;
+  text-align: center;
+  color: #fff;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.blog-hero__content {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.blog-hero__title {
+  margin: 0 0 1rem;
+  font-size: clamp(2.25rem, 5vw, 3.5rem);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+}
+
+.blog-hero__subtitle {
+  margin: 0;
+  font-size: clamp(1rem, 2vw, 1.25rem);
+  color: rgba(255, 255, 255, 0.9);
+  line-height: 1.6;
+}
