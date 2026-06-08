@@ -22,7 +22,7 @@
       transparent 35%
     ),
     linear-gradient(180deg, rgba(10, 25, 47, 0.88), rgba(10, 25, 47, 0.54)),
-    url("src/images/indu-banner.png");
+    url("/indu-banner.png");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
