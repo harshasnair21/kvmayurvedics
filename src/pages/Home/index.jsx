@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import "./index.css";
 import indukanti from "../../images/indukanti.png";
 import indukanthi from "../../images/indukanthi.png";
+import indu from "../../images/indu-product.png";
 import oil from "../../images/oil.png";
 // import indukanthiabt from "../../images/indukanthi-abt.png";
 import nidraplus from "../../images/nidraplus.png";
@@ -19,7 +20,7 @@ const productList = [
   {
     title: "Indukanthi Oil",
     subtitle: "Nourish skin with herbal goodness",
-    image: indukanti,
+    image: indu,
     price: "Rs. 499",
   },
   {
